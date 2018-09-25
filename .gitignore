@@ -1,0 +1,25 @@
+# .gitignore
+# Thanasis Zoumpekas (thanasis.z@hotmail.com)
+# Codename : thzou
+
+# Python byte code files
+*.pyc
+
+# PDF files
+*.pdf
+
+# zip files
+*.zip
+
+# Html files
+*.html
+
+# Excel Files
+*.xls
+*.xlsx
+
+# Jupyter Notebook checkpoints
+*.ipynb_checkpoints
+
+# csv files
+*.csv
